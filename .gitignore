@@ -1,0 +1,10 @@
+data/
+docker.sublime*
+reserva/
+.home/
+.vscode/
+.DS_Store/
+node_modules/
+Dockerfile
+docker-compose.yml
+.dockerignore
